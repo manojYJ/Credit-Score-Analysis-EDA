@@ -43,4 +43,16 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, Google Colab
 - Perform feature engineering for improved accuracy  
 - Deploy risk scoring dashboard using Power BI or Streamlit
 
+## 📌 Conclusion
+- Customers with high debt and utilization ratios are most at risk.  
+- Delayed payments and minimum-only payments are strong red flags.  
+- Balanced credit mix improves portfolio stability.  
+
+## 💡 Business Recommendations
+- Strengthen monitoring of customers with high utilization and debt.  
+- Offer financial literacy programs to reduce delayed payments.  
+- Incentivize balanced credit mix through product offerings.  
+- Use predictive modeling to flag risk early and improve approvals.  
+
+
 
