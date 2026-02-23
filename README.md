@@ -19,7 +19,7 @@ This project analyzes customer data to uncover patterns that influence credit sc
 Includes Age, Occupation, Annual Income, Monthly Salary, Outstanding Debt, Credit Utilization Ratio, Loans, Delayed Payments, Credit Mix, EMI, Credit Inquiries, Payment Behaviour, and Credit Score (Target Variable).
 
 ## 🔎 Exploratory Data Analysis
-- Univariate: Credit Score distribution, Income, Debt, Utilization, Loans, Occupation, Credit Mix  
+- **Univariate**: Credit Score distribution, Income, Debt, Utilization, Loans, Occupation, Credit Mix  
 - **Bivariate**: Income vs Credit Score, Debt vs Credit Score, Utilization vs Credit Score, etc.  
 - **Multivariate**: Correlation Heatmap, Debt & Utilization Impact, Income & EMI Interaction  
 
